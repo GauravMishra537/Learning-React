@@ -1,0 +1,32 @@
+{
+  "name": "ep2",
+  "version": "1.0.0",
+  "description": "React FUndamentals",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravMishra537/Learning-React.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravMishra537/Learning-React/issues"
+  },
+  "homepage": "https://github.com/GauravMishra537/Learning-React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "browserslist":[
+    "last 10 Chrome version",
+    "last 2 Firefox version"
+  ]
+}
