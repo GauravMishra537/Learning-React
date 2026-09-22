@@ -1,0 +1,30 @@
+{
+  "name": "ep3",
+  "version": "1.0.0",
+  "description": "Learning about jsx",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravMishra537/Learning-React.git"
+  },
+  "keywords": [
+    "REACT"
+  ],
+  "author": "Gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravMishra537/Learning-React/issues"
+  },
+  "homepage": "https://github.com/GauravMishra537/Learning-React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
